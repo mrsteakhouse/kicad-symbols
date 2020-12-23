@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ESP-01
+D Generic connector, double row, 02x04, counter clockwise pin numbering scheme (similar to DIP packge numbering), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP MCP1755S-1802xCB
 D Fixed 300mA Low Dropout Voltage Regulator, Positive, 1.8V output, SOT-23
 K Regulator LDO
